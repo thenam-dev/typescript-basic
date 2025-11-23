@@ -4,7 +4,7 @@ const sum3 = (x: number, y: number): number => {
   //   return "abc";
 };
 
-function sum4(x: number, y: number): number {
+function sum33(x: number, y: number): number {
   return x + y;
 }
 
